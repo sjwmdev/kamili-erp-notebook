@@ -1,8 +1,6 @@
 # Kamili ERP Notebook 🧠
 
-A collection of reusable Laravel/PHP code snippets and patterns I’ve discovered or created during development — helpful across various modules and projects.
-
----
+A collection of reusable code snippets and patterns I’ve discovered or created during development — helpful across various modules and projects.
 
 ## 🗂️ Table of Contents
 
@@ -13,8 +11,6 @@ A collection of reusable Laravel/PHP code snippets and patterns I’ve discovere
 - [🔁 Reusable Eloquent Queries](#reusable-eloquent-queries)
 - [⚙️ Route & Middleware Patterns](#route--middleware-patterns)
 - [🧪 Test Utilities](#test-utilities)
-
----
 
 ## 🔐 Authentication Helpers
 
